@@ -5,4 +5,6 @@
 
 
 io:fwrite("hello est").
+io:fwrite("ughhh").
+
 
